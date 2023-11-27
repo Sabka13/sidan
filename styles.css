@@ -12,6 +12,7 @@ body {
   margin: 4rem 0;
 }
 
+/* Hoppas att allt är rätt nu  */
 body>div {
   background: url('./bilder/geez.jpg');
   background-size: cover;
