@@ -271,7 +271,7 @@ footer {
 /* Media Queries */
 @media (width <=500px) {
   body>div {
-    background-image: url();
+    background-image: url(./bilder/eazymobil.jpeg);
   }
 
   body {
